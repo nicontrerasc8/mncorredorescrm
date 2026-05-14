@@ -10,3 +10,6 @@
 ○ Compiling /landing-demo ...
  GET /landing-demo 200 in 3.7s (next.js: 3.4s, application-code: 334ms)
  GET /landing-demo 200 in 114ms (next.js: 10ms, application-code: 104ms)
+ GET / 200 in 1110ms (next.js: 873ms, application-code: 237ms)
+ GET / 200 in 80ms (next.js: 19ms, application-code: 61ms)
+ GET /landing-demo 200 in 801ms (next.js: 476ms, application-code: 326ms)
